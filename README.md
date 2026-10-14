@@ -175,15 +175,18 @@ Open the local URL printed by Streamlit, usually `http://localhost:8501`.
 
 ## Dashboard Screenshots
 
-Screenshots of the running dashboard can be added here to demonstrate the Engine Monitor, Fleet Intelligence, and Model Evaluation tabs.
 
-For example, create a `screenshots/` folder and add your screenshots, then embed them using:
+## Dashboard Screenshots
 
-```markdown
+### Engine Monitor
 ![Engine Monitor](screenshots/engine-monitor.png)
+
+### Fleet Intelligence
 ![Fleet Intelligence](screenshots/fleet-intelligence.png)
+
+### Model Evaluation
 ![Model Evaluation](screenshots/model-evaluation.png)
-```
+
 
 ## Limitations
 
